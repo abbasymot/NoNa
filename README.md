@@ -11,7 +11,7 @@ Download or clone the code and text files.
 
 Run the app.py
 
-Enter your sex (Male/Female)
+Enter your sex (Male/Female) (Sorry, I think we don't have names for other sexes, If there is any, I would be happy to know.)
 
 Enter your name
 
